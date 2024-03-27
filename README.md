@@ -2,9 +2,14 @@
 
 # CUW Hackathon Spring 2024 sponsored by Aurora WDC! 
 
+## Hackathon Format
+
+Date: Tuesday, April 16th, 2024
+Time: 04:30 PM CST - 09:30 PM CST
+
 ## Challenge Overview
 
-Dive deep into Discord servers and channels, extracting insights from posts and conducting sentiment analysis. In addition to data extraction, we'd like to able to categorize _Users_ on the Discord Channel under the three categories below: 
+In this 4.5 hour Hackathon you will dive deep into Discord servers and channels, extracting insights from posts and conducting sentiment analysis. In addition to data extraction, we'd like to able to categorize _Users_ on the Discord Channel under the three categories below: 
 
 1. Creator (ex: Author of the Youtube Video)
 2. Curator (ex: Discord User who posted the Video)
