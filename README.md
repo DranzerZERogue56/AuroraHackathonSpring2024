@@ -5,6 +5,7 @@
 ## Hackathon Format
 
 Date: Tuesday, April 16th, 2024
+
 Time: 04:30 PM CST - 09:30 PM CST
 
 ## Challenge Overview
