@@ -23,5 +23,5 @@ More info _may_ be provided on the day of the Hackathon
 In this challenge, you will explore the [Discord API](https://discord.com/developers/docs/intro) and [Youtube Unofficial API](https://github.com/jdepoix/youtube-transcript-api/tree/master) in order to extract and analyze the posts in the _General_ Channel on the _OpenRECON_ Discord server. Server and Channel IDs will be provided on the day of the Hackathon.
 
 
-### Bonus:
+### Bonus
 Add a Graph database like [Neo4j](https://neo4j.com/docs/python-manual/current/) to your code in order to organize data as nodes, relationships, and properties. Nodes represent entities, relationships represent connections between entities, and properties represent attributes of nodes and relationships. This can enhance your data analysis output and potentially generate deeper insights.
