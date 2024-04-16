@@ -1,6 +1,6 @@
 # make sure you execute "pip install pyoembed." Recommend doing this as admin
 
-from pyoembed import oEmbed, PyOembedException
+from pyoembed import oEmbed
 
 try:
 
